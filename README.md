@@ -29,8 +29,8 @@ Conclusion of Agricultural Crop Yield Analysis :
 
 The analysis of the agricultural crop yield dataset reveals several critical insights that can inform agricultural practices and policy-making:
 
-Impact of Environmental Factors: The data underscores the significant influence of annual rainfall on crop yield. Regions with adequate rainfall tend to exhibit higher production levels, highlighting the importance of climate conditions in agricultural planning.
-The use of fertilizers and pesticides is shown to correlate with improved yields. This emphasizes the necessity for optimized input management to enhance productivity while also considering environmental sustainability.
-The analysis indicates marked differences in crop yields across various states and seasons. Understanding these regional disparities can help tailor agricultural strategies to local conditions, thereby improving overall efficiency.
-The findings advocate for a balanced approach to agricultural inputs, promoting sustainable practices that maximize yield while minimizing ecological impact. This is particularly important in the context of increasing global food demand.
+*Impact of Environmental Factors: The data underscores the significant influence of annual rainfall on crop yield. Regions with adequate rainfall tend to exhibit higher production levels, highlighting the importance of climate conditions in agricultural planning.
+*The use of fertilizers and pesticides is shown to correlate with improved yields. This emphasizes the necessity for optimized input management to enhance productivity while also considering environmental sustainability.
+*The analysis indicates marked differences in crop yields across various states and seasons. Understanding these regional disparities can help tailor agricultural strategies to local conditions, thereby improving overall efficiency.
+*The findings advocate for a balanced approach to agricultural inputs, promoting sustainable practices that maximize yield while minimizing ecological impact. This is particularly important in the context of increasing global food demand.
 
