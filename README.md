@@ -1,6 +1,6 @@
 # Projects_Power_BI
 
-![Agricultural_Crop_Yield_](https://github.com/user-attachments/assets/80af0f05-4b0b-47f2-a2d5-a2ec4021055d)
+![dashboard_agricultural_crop_yield](https://github.com/user-attachments/assets/32107df6-e75e-42b0-b701-3445c058d720)
 
 Project overview :
 
