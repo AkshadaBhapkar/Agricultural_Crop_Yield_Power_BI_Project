@@ -23,6 +23,16 @@ Key Components :
 9. Pesticide:        The amount of pesticide applied (in kg), indicating management practices for pest control.
 10. Yield:           The efficiency of production, measured as yield per hectare (in tons/hectare).
 
+Questions :
+1. Create a visualization that presents various crop seasons.
+2. Create a visualization to show percentages of different type of crops.
+3. How much fertilizer is used in different states?
+4. Which crop has the maximum production?
+5. Create a visualization to count production by crop type and season.
+6. Create a visualization to count state-wise annual rain.
+7. Which states have crop production?
+8. Create a visualization to count the percentage of pesticides used in different the states.
+
 Relationships and Insights :
 
 Yield Analysis: Investigate how environmental factors (like rainfall) and agricultural practices (fertilizer and pesticide usage) influence crop yield.
