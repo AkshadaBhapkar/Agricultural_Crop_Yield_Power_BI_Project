@@ -1,4 +1,7 @@
 # Projects_Power_BI
+
+![Agricultural_Crop_Yield_](https://github.com/user-attachments/assets/80af0f05-4b0b-47f2-a2d5-a2ec4021055d)
+
 Project overview :
 
 This repository contains a Power BI dashboard designed to visualize and analyze agricultural crop yield data. The dashboard provides insights into crop production trends, influencing factors, and state-wise comparisons. This dataset related to agricultural crop yields across various states and seasons. The dataset includes crucial factors affecting crop production, such as area, rainfall, fertilizer, and pesticide usage. The dataset provides a comprehensive view of agricultural production, capturing essential variables that influence crop yield across different regions and time periods. Each record represents a specific crop cultivated in a given year and season, with associated environmental and management factors.
